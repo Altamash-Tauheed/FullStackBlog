@@ -32,7 +32,7 @@ export default function Post() {
     };
 
     return post ? (
-        <div className="py-8 h-screen">
+        <div className="py-8">
             <Container>
                 <div className="flex flex-col md:flex-row mb-4 border rounded-xl p-2">
                     {/* Image Section */}
